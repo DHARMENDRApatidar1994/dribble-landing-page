@@ -160,7 +160,7 @@ header .top button:hover{
     position: absolute;
     z-index: 1;
     left: 31%;
-    top: 60%;
+    top: 70%;
     font-size: 1vmax;
     color: gray;
 
@@ -261,8 +261,8 @@ header .top button:hover{
     .search i{
         position: absolute;
         z-index: 1;
-        left: 9%;
-        top: 58%;
+        left: 11%;
+        top: 50%;
         font-size: 2vmax;
         color: black;
     
